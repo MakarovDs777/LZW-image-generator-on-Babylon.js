@@ -2,7 +2,7 @@
 
 Нашел интереснный алгоритм сжатия LZW называется [Простейшие алгоритмы сжатия информации, методы Лемпела-Зива - YouTube](https://www.youtube.com/watch?v=XEOUD5Os1b8&t=329s) ну конечно на Babylon.js ещё этого никто не делал, и я решил создать. 
 
-[LZW image generator on Babylon.js (Version 0) | Babylon.js Playground](https://playground.babylonjs.com/#M3SVIX#1)
+[LZW image generator on Babylon.js (Version 0 - One image) | Babylon.js Playground](https://playground.babylonjs.com/#M3SVIX#1)
 
 Отлично теперь сделаем множество картинок в ряд.
 
