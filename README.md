@@ -8,4 +8,8 @@
 
 [LZW image generator on Babylon.js (Version 1 - More LZW images) | Babylon.js Playground](https://playground.babylonjs.com/#T1DNW9#1)
 
+Теперь нужно пореза картинку на RGB ленты и кажду ленту превратить в LZW.
+
+[LZW image generator on Babylon.js (Version 2 - One image LZW RGB Lents) | Babylon.js Playground](https://playground.babylonjs.com/#KO06Y9)
+
 Что-бы конвертировать в LZW используйте моё приложение -> [A-set-of-numbers-in-a-picture-Tkinter-application-5](https://github.com/MakarovDs777/Turn-a-set-of-numbers-into-a-image-Tkinter-application/blob/main/A-set-of-numbers-in-a-picture-Tkinter-application-5.py)
