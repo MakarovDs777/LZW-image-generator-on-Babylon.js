@@ -12,4 +12,8 @@
 
 [LZW image generator on Babylon.js (Version 2 - One image LZW RGB Lents GLITCH version) | Babylon.js Playground](https://playground.babylonjs.com/#KO06Y9#2)
 
+Теперь сделаем множество картинок а не одну.
+
+[LZW image generator on Babylon.js (Version 3 - More images LZW RGB Lents GLITCH version) | Babylon.js Playground](https://playground.babylonjs.com/#EOPUV0)
+
 Что-бы конвертировать в LZW используйте моё приложение -> [A-set-of-numbers-in-a-picture-Tkinter-application-5](https://github.com/MakarovDs777/Turn-a-set-of-numbers-into-a-image-Tkinter-application/blob/main/A-set-of-numbers-in-a-picture-Tkinter-application-5.py)
