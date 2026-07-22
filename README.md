@@ -20,4 +20,8 @@
 
 [LZW image generator on Babylon.js (Version 4 - One image LZW RGB RELIC While sequence) | Babylon.js Playground](https://playground.babylonjs.com/#DEUBYE#1)
 
+Мне нужно сделать много картинок а не одну.
+
+[LZW image generator on Babylon.js (Version 5 - More images LZW RGB RELIC While sequence) | Babylon.js Playground](https://playground.babylonjs.com/#EY1HVD)
+
 Что-бы конвертировать в LZW используйте моё приложение -> [A-set-of-numbers-in-a-picture-Tkinter-application-5](https://github.com/MakarovDs777/Turn-a-set-of-numbers-into-a-image-Tkinter-application/blob/main/A-set-of-numbers-in-a-picture-Tkinter-application-5.py)
