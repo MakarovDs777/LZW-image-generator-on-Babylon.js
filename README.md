@@ -36,7 +36,7 @@
 
 [LZW image generator on Babylon.js (Version 8 - One image LZW NO SPACE) | Babylon.js Playground](https://playground.babylonjs.com/#VHBUME)
 
-
+Короче сделаем много LZW без отступов.
 
 [LZW image generator on Babylon.js (Version 9 - More images LZW NO SPACE) | Babylon.js Playground](https://playground.babylonjs.com/#352C7O)
 
