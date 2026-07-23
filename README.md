@@ -26,7 +26,7 @@
 
 Теперь уберём While RELIC оставим только RELIC на LZW.
 
-[LZW image generator on Babylon.js (Version 6 - One image LZW RGB + RELIC) | Babylon.js Playground](https://playground.babylonjs.com/#VMVI47)
+[LZW image generator on Babylon.js (Version 6 - One image LZW RGB + RELIC) | Babylon.js Playground](https://playground.babylonjs.com/#VMVI47#1)
 
 Сделаем много картинок а не одну без While RELIC.
 
