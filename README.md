@@ -8,7 +8,7 @@
 
 [LZW image generator on Babylon.js (Version 1 - More LZW images) | Babylon.js Playground](https://playground.babylonjs.com/#T1DNW9#1)
 
-Теперь нужно пореза картинку на RGB ленты и кажду ленту превратить в LZW.
+Теперь нужно порезать картинку на RGB ленты и кажду ленту превратить в LZW.
 
 [LZW image generator on Babylon.js (Version 2 - One image LZW RGB Lents GLITCH version) | Babylon.js Playground](https://playground.babylonjs.com/#KO06Y9#2)
 
