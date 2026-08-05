@@ -60,4 +60,8 @@
 
 [LZW image generator on Babylon.js (Version 14 - LZW One image of the constituent elements of LZW) | Babylon.js Playground](https://playground.babylonjs.com/#4X413B)
 
+Сделай для множество картинок а не одной.
+
+[LZW image generator on Babylon.js (Version 15 - LZW More image of the constituent elements of LZW) | Babylon.js Playground](https://playground.babylonjs.com/#MZB8PN)
+
 Что-бы конвертировать в LZW используйте моё приложение -> [A-set-of-numbers-in-a-picture-Tkinter-application-5](https://github.com/MakarovDs777/Turn-a-set-of-numbers-into-a-image-Tkinter-application/blob/main/A-set-of-numbers-in-a-picture-Tkinter-application-5.py)
