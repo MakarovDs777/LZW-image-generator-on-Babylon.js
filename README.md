@@ -56,4 +56,8 @@
 
 [LZW image generator on Babylon.js (Version 13 - LZW on RLE more images) | Babylon.js Playground](https://playground.babylonjs.com/#WVSNLN#1)
 
+Теперь нужно сделать LZW картинку из составных элементов LZW.
+
+[LZW image generator on Babylon.js (Version 14 - LZW One image of the constituent elements of LZW) | Babylon.js Playground](https://playground.babylonjs.com/#4X413B)
+
 Что-бы конвертировать в LZW используйте моё приложение -> [A-set-of-numbers-in-a-picture-Tkinter-application-5](https://github.com/MakarovDs777/Turn-a-set-of-numbers-into-a-image-Tkinter-application/blob/main/A-set-of-numbers-in-a-picture-Tkinter-application-5.py)
