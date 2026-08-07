@@ -64,8 +64,12 @@
 
 [LZW image generator on Babylon.js (Version 15 - LZW More image of the constituent elements of LZW) | Babylon.js Playground](https://playground.babylonjs.com/#MZB8PN#1)
 
-Вернемся к 8 версии, и вместо строки с тем сколько чисел однозначных, двухзначных, трёхзначных идёт подряд просто будем делать в формате поребрика типа префекс A: 1 значит все числа однозначно разделяются B: 2 значит все числа двухзначо разделяются, и так далее в алфовитном порядке.
+Вернемся к 8 версии, и вместо строки с тем сколько чисел однозначных, двухзначных, трёхзначных идёт подряд просто будем делать в формате поребрика типа префикс A: 1 значит все числа однозначно разделяются B: 2 значит все числа двухзначно разделяются, и так далее в алфавитном порядке.
 
 [LZW image generator on Babylon.js (Version 16 - One image LZW but no space just dict) | Babylon.js Playground](https://playground.babylonjs.com/#T3M3CA)
+
+Отлично теперь сделаем вместо строки с тем сколько чисел однозначных, двухзначных, трёхзначных идёт подряд просто будем делать в формате поребрика типа префикс A: 1 значит все числа однозначно разделяются B: 2 значит все числа двухзначно разделяются, и так далее в алфавитном порядке только для множество картинок а не одной.
+
+[LZW image generator on Babylon.js (Version 17 - More images LZW but no spaces just dict) | Babylon.js Playground](https://playground.babylonjs.com/#1F845S)
 
 Что-бы конвертировать в LZW используйте моё приложение -> [A-set-of-numbers-in-a-picture-Tkinter-application-5](https://github.com/MakarovDs777/Turn-a-set-of-numbers-into-a-image-Tkinter-application/blob/main/A-set-of-numbers-in-a-picture-Tkinter-application-5.py)
