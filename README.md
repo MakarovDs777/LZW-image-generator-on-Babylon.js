@@ -60,7 +60,15 @@
 
 [LZW image generator on Babylon.js (Version 14 - LZW One image of the constituent elements of LZW) | Babylon.js Playground](https://playground.babylonjs.com/#4X413B)
 
-Сделай для множество картинок а не одной.
+Отлично теперь сравним если бы мы это сделали в [10 версией](https://playground.babylonjs.com/#FTFK1D):
+
+<img width="940" height="564" alt="Сохраненное изображение 2026-8-8_17-55-3 811" src="https://github.com/user-attachments/assets/4e82a04a-92be-4d56-a2f4-72673ded95ea" />
+
+И в 14'ой видим разницу:
+
+<img width="804" height="833" alt="Сохраненное изображение 2026-8-8_17-55-48 764" src="https://github.com/user-attachments/assets/5791d487-fcce-4f92-b3c8-4cc3ed3eec9e" />
+
+Теперь нужно сделать для множество картинок а не одной.
 
 [LZW image generator on Babylon.js (Version 15 - LZW More image of the constituent elements of LZW) | Babylon.js Playground](https://playground.babylonjs.com/#MZB8PN#1)
 
