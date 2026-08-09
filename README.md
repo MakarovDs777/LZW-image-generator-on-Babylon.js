@@ -84,6 +84,8 @@
 
 [LZW image generator on Babylon.js (Version 18 - One image LZW RGB RELIC While sequence but no space just dict) | Babylon.js Playground](https://playground.babylonjs.com/#N2TPJE#1)
 
-[]()
+Сделаем много картинок как в 17 версии а не одну.
+
+[LZW image generator on Babylon.js (Version 19 - More image LZW RGB RELIC While sequence but no space just dict) | Babylon.js Playground](https://playground.babylonjs.com/#4OLB32)
 
 Что-бы конвертировать в LZW используйте моё приложение -> [A-set-of-numbers-in-a-picture-Tkinter-application-5](https://github.com/MakarovDs777/Turn-a-set-of-numbers-into-a-image-Tkinter-application/blob/main/A-set-of-numbers-in-a-picture-Tkinter-application-5.py)
