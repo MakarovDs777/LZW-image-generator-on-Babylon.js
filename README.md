@@ -82,7 +82,7 @@
 
 Совместим 4, и 16 версию для одной картинки.
 
-[LZW image generator on Babylon.js (Version 18 - One image LZW RGB RELIC While sequence but no space just dict) | Babylon.js Playground](https://playground.babylonjs.com/#N2TPJE#2)
+[LZW image generator on Babylon.js (Version 18 - One image LZW RGB RELIC While sequence but no space just dict) | Babylon.js Playground](https://playground.babylonjs.com/#N2TPJE#3)
 
 Сделаем много картинок как в 17 версии а не одну.
 
