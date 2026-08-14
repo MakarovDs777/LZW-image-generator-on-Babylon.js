@@ -84,6 +84,14 @@
 
 [LZW image generator on Babylon.js (Version 18 - One image LZW RGB RELIC While sequence but no space just dict) | Babylon.js Playground](https://playground.babylonjs.com/#N2TPJE#3)
 
+Теперь совместим 2 и 16 версию без пробелов.
+
+[LZW image generator on Babylon.js (Version 20 - One image LZW RGB Lents but no space just dict) | Babylon.js Playground](https://playground.babylonjs.com/#Z1SM6V)
+
+И как всегда для множество картинок.
+
+[LZW image generator on Babylon.js (Version 21 - More images LZW RGB Lents but no space just dict) | Babylon.js Playground](https://playground.babylonjs.com/#WM6RIZ)
+
 Сделаем много картинок как в 17 версии а не одну.
 
 [LZW image generator on Babylon.js (Version 19 - More image LZW RGB RELIC While sequence but no space just dict) | Babylon.js Playground](https://playground.babylonjs.com/#4OLB32#1)
