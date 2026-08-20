@@ -104,4 +104,8 @@
 
 [LZW image generator on Babylon.js (Version 23 - More images LZW but no spaces just dict: Bioms XZ podium) | Babylon.js Playground](https://playground.babylonjs.com/#7TSSY5#2)
 
+Исправим недостаток сделаем их не вправо рядами а вперёд.
+
+[LZW image generator on Babylon.js(Version 24-More images LZW but no spaces just dict:Bioms XZ podium In a straight line) | Babylon.js Playground](https://playground.babylonjs.com/#I5UYDS)
+
 Что-бы конвертировать в LZW используйте моё приложение -> [A-set-of-numbers-in-a-picture-Tkinter-application-5](https://github.com/MakarovDs777/Turn-a-set-of-numbers-into-a-image-Tkinter-application/blob/main/A-set-of-numbers-in-a-picture-Tkinter-application-5.py)
