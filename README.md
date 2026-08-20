@@ -102,6 +102,6 @@
 
 Нужно создать биомы картинок ввиде колонок по XZ подиумов.
 
-[LZW image generator on Babylon.js (Version 23 - More images LZW but no spaces just dict: Bioms XZ podium) | Babylon.js Playground](https://playground.babylonjs.com/#7TSSY5)
+[LZW image generator on Babylon.js (Version 23 - More images LZW but no spaces just dict: Bioms XZ podium) | Babylon.js Playground](https://playground.babylonjs.com/#7TSSY5#1)
 
 Что-бы конвертировать в LZW используйте моё приложение -> [A-set-of-numbers-in-a-picture-Tkinter-application-5](https://github.com/MakarovDs777/Turn-a-set-of-numbers-into-a-image-Tkinter-application/blob/main/A-set-of-numbers-in-a-picture-Tkinter-application-5.py)
