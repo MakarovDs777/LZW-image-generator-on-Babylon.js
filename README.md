@@ -106,10 +106,10 @@
 
 Исправим недостаток сделаем их не вправо рядами а вперёд.
 
-[LZW image generator on Babylon.js(Version 24-More images LZW but no spaces just dict:Bioms XZ podium In a straight line) | Babylon.js Playground](https://playground.babylonjs.com/#I5UYDS#1)
+[LZW image generator on Babylon.js(Version 24-More images LZW but no spaces just dict:Bioms XZ podium In a straight line) | Babylon.js Playground](https://playground.babylonjs.com/#I5UYDS)
 
 [LZW image generator on Babylon.js (Version 25 - LZW triplets One image) | Babylon.js Playground](https://playground.babylonjs.com/#FJ3H8B)
 
-[LZW image generator on Babylon.js (Version 26 - LZW triplets RGB More images) | Babylon.js Playground](https://playground.babylonjs.com/#14Q0MI)
+[LZW image generator on Babylon.js (Version 26 - LZW triplets RGB More images) | Babylon.js Playground](https://playground.babylonjs.com/#14Q0MI#2)
 
 Что-бы конвертировать в LZW используйте моё приложение -> [A-set-of-numbers-in-a-picture-Tkinter-application-5](https://github.com/MakarovDs777/Turn-a-set-of-numbers-into-a-image-Tkinter-application/blob/main/A-set-of-numbers-in-a-picture-Tkinter-application-5.py)
