@@ -106,7 +106,7 @@
 
 Исправим недостаток сделаем их не вправо рядами а вперёд.
 
-[LZW image generator on Babylon.js(Version 24-More images LZW but no spaces just dict:Bioms XZ podium In a straight line) | Babylon.js Playground](https://playground.babylonjs.com/#I5UYDS)
+[LZW image generator on Babylon.js(Version 24-More images LZW but no spaces just dict:Bioms XZ podium In a straight line) | Babylon.js Playground](https://playground.babylonjs.com/#I5UYDS#1)
 
 [LZW image generator on Babylon.js (Version 25 - LZW triplets One image) | Babylon.js Playground](https://playground.babylonjs.com/#FJ3H8B)
 
