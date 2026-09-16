@@ -112,4 +112,8 @@
 
 [LZW image generator on Babylon.js (Version 26 - LZW triplets RGB More images) | Babylon.js Playground](https://playground.babylonjs.com/#14Q0MI#2)
 
+[LZW image generator on Babylon.js (Version 27 - LZW triplets RGB More images full-size) | Babylon.js Playground](https://playground.babylonjs.com/#0NYUC9)
+
+[LZW image generator on Babylon.js (Version 28 - One image LZW but no space just dict an image cut into 4 pieces crosswise](https://playground.babylonjs.com/#ITBHPT)
+
 Что-бы конвертировать в LZW используйте моё приложение -> [A-set-of-numbers-in-a-picture-Tkinter-application-5](https://github.com/MakarovDs777/Turn-a-set-of-numbers-into-a-image-Tkinter-application/blob/main/A-set-of-numbers-in-a-picture-Tkinter-application-5.py)
