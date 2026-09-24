@@ -118,4 +118,6 @@
 
 [LZW image generator on Babylon.js(Version 29-More image LZW but no space just dict an image cut into 4 pieces crosswise) | Babylon.js Playground](https://playground.babylonjs.com/#UY6CTB#1)
 
+[LZW image generator on Babylon.js(Version 30-One image LZW but no space just dict an image cut into 16 pieces crosswise) | Babylon.js Playground](https://playground.babylonjs.com/#9QFLSK#4)
+
 Что-бы конвертировать в LZW используйте моё приложение -> [A-set-of-numbers-in-a-picture-Tkinter-application-5](https://github.com/MakarovDs777/Turn-a-set-of-numbers-into-a-image-Tkinter-application/blob/main/A-set-of-numbers-in-a-picture-Tkinter-application-5.py)
