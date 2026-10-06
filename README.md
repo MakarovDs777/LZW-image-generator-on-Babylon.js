@@ -124,7 +124,7 @@
 
 [LZW image generator on Babylon.js(Version32-More images LZW but no space just dict an image cut into 64pieces crosswise) | Babylon.js Playground](https://playground.babylonjs.com/#YK9A86#2)
 
-[LZW image generator on Babylon.js (Version 33 - One plane 2 side LZW images but no space just dict) | Babylon.js Playground](https://playground.babylonjs.com/#VWJK9Z)
+[LZW image generator on Babylon.js (Version 33 - One plane 2 side LZW images but no space just dict) | Babylon.js Playground](https://playground.babylonjs.com/#VWJK9Z#1)
 
 [LZW image generator on Babylon.js (Version 34 - More plane 2 side LZW images but no space just dict) | Babylon.js Playground](https://playground.babylonjs.com/#9AS9PB)
 
