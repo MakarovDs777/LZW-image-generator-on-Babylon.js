@@ -128,6 +128,6 @@
 
 [LZW image generator on Babylon.js (Version 34 - More plane 2 side LZW images but no space just dict) | Babylon.js Playground](https://playground.babylonjs.com/#9AS9PB#1)
 
-[LZW image generator on Babylon.js (Version 35 - LZW Editor One image) | Babylon.js Playground](https://playground.babylonjs.com/#M8HVG3#1)
+[LZW image generator on Babylon.js (Version 35 - LZW Editor One image) | Babylon.js Playground](https://playground.babylonjs.com/#M8HVG3#2)
 
 Что-бы конвертировать в LZW используйте моё приложение -> [A-set-of-numbers-in-a-picture-Tkinter-application-5](https://github.com/MakarovDs777/Turn-a-set-of-numbers-into-a-image-Tkinter-application/blob/main/A-set-of-numbers-in-a-picture-Tkinter-application-5.py)
