@@ -128,7 +128,7 @@
 
 [LZW image generator on Babylon.js (Version 34 - More plane 2 side LZW images but no space just dict) | Babylon.js Playground](https://playground.babylonjs.com/#9AS9PB#1)
 
-[LZW image generator on Babylon.js (Version 35 - LZW Editor One image) | Babylon.js Playground](https://playground.babylonjs.com/#M8HVG3#2)
+[LZW image generator on Babylon.js (Version 35 - LZW Editor One image) | Babylon.js Playground](https://playground.babylonjs.com/#M8HVG3#3)
 
 [LZW image generator on Babylon.js (Version 36 - LZW Editor More images) | Babylon.js Playground](https://playground.babylonjs.com/#KOFUSM)
 
