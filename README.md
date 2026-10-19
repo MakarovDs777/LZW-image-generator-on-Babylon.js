@@ -130,7 +130,7 @@
 
 [LZW image generator on Babylon.js (Version 35 - LZW Editor One image) | Babylon.js Playground](https://playground.babylonjs.com/#M8HVG3#3)
 
-[LZW image generator on Babylon.js (Version 36 - LZW Editor More images) | Babylon.js Playground](https://playground.babylonjs.com/#KOFUSM)
+[LZW image generator on Babylon.js (Version 36 - LZW Editor More images) | Babylon.js Playground](https://playground.babylonjs.com/#KOFUSM#1)
 
 [LZW image generator on Babylon.js (Version 37 - LZW One image W socket + RELIC) | Babylon.js Playground](https://playground.babylonjs.com/#4HDUU9)
 
