@@ -140,4 +140,6 @@
 
 [LZW image generator on Babylon.js (Version 40 - LZW Editor One image rearranging pixels randomly with their replacement) | Babylon.js Playground](https://playground.babylonjs.com/#03YZ0O)
 
+[LZW image generator on Babylon.js(Version42-LZW Editor a podium with the generation of identical images in a row by GUI) | Babylon.js Playground](https://playground.babylonjs.com/#3U03L1)
+
 Что-бы конвертировать в LZW используйте моё приложение -> [A-set-of-numbers-in-a-picture-Tkinter-application-5](https://github.com/MakarovDs777/Turn-a-set-of-numbers-into-a-image-Tkinter-application/blob/main/A-set-of-numbers-in-a-picture-Tkinter-application-5.py)
