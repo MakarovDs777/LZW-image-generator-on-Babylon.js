@@ -144,6 +144,6 @@
 
 [LZW image generator on Babylon.js (Version 43 - Picture in picture in one picture) | Babylon.js Playground](https://playground.babylonjs.com/#HE3MSU)
 
-[LZW image generator on Babylon.js (Version 44 - More image LZW no space just dict different OBJ optional version) | Babylon.js Playground](https://playground.babylonjs.com/#KCFCJT)
+[LZW image generator on Babylon.js (Version 44 - More image LZW no space just dict different OBJ optional version) | Babylon.js Playground](https://playground.babylonjs.com/#KCFCJT#2)
 
 Что-бы конвертировать в LZW используйте моё приложение -> [A-set-of-numbers-in-a-picture-Tkinter-application-5](https://github.com/MakarovDs777/Turn-a-set-of-numbers-into-a-image-Tkinter-application/blob/main/A-set-of-numbers-in-a-picture-Tkinter-application-5.py)
